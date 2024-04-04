@@ -1,2 +1,8 @@
+git add .
+git commit --m "descriptive message"
+git push
+#changes to use vs code to commit stuff
+git config --global core.editor "code --wait"  
 git status moves are
 Modified -> Staged -> Committed
+
