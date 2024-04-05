@@ -56,5 +56,4 @@ Thank you for checking out my Odin Recipes project!
 
 ---
 
-_This project is part of [The Odin Project](https://www.theodinproject.com/) curriculum._
-```
+This project is part of [The Odin Project](https://www.theodinproject.com/) curriculum.
