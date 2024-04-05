@@ -34,7 +34,7 @@ Added more recipes to the collection, ensuring consistent page structure.
 To view the Odin Recipes project, simply clone this repository to your local machine and open the `index.html` file in any web browser.
 
 ```shell
-git clone https://github.com/frank-mosigisi/recipes-project
+git clone https://github.com/frank-mosigisi/SavoryCodeCookbook
 cd odin-recipes
 open index.html
 ```
